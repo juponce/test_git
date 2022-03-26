@@ -1,0 +1,9 @@
+:root {
+    --prueba: red;
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--prueba);
+}
